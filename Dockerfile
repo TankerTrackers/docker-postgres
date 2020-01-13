@@ -1,5 +1,8 @@
 FROM postgres:11.2
 
+# This Dockerfile has been abandoned and wil no longer be updated.
+# - Breki Tomasson, Jan 13th, 2020.
+
 USER root
 
 VOLUME /var/lib/postgresql/data

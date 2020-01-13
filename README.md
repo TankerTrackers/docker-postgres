@@ -1,5 +1,7 @@
 # TankerTrackers/docker-postgres
 
+> **NOTE:** (Jan 13th, 2020) This Docker Container has been abandoned and will no longer be updated.
+
 This is the Docker container for Postgres, used in the production environment for [TankerTrackers.com](https://tankertrackers.com).
 
 ## Details
